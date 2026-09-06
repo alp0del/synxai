@@ -1,1 +1,1 @@
-# synxai
+# synxai 
